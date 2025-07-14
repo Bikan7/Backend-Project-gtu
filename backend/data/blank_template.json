@@ -1,0 +1,55 @@
+{
+  "title": "",
+  "desc": "",
+
+  "data": [
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    },
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    },
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    },
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    },
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    },
+    {
+      "title": "",
+      "books": [
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" },
+        { "name": "", "imgUrl": "", "dLink": "" }
+      ]
+    }
+  ]
+}
