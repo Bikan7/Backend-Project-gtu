@@ -4,9 +4,15 @@ const express = require("express");
 const app = express();
 
 const firstYearBooks = require("./data/1st-year-books.json");
+app.set("view engine", "ejs");
 
 app.get("/1st-year-books", (req, res) => {
   res.json(firstYearBooks);
+});
+
+app.get("/test", (req, res) => {
+  res.render("index", { data:firstYearBooks });
+  // console.log(typeof(firstYearBooks))
 });
 
 app.use((req, res) => {
