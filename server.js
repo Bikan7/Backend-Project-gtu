@@ -5,6 +5,7 @@ const app = express();
 
 const firstYearBooks = require("./data/1st-year-books.json");
 app.set("view engine", "ejs");
+app.set("views", "views")
 
 app.get("/1st-year-books", (req, res) => {
   res.json(firstYearBooks);
